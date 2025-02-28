@@ -43,8 +43,10 @@
 
 <br clear="both">
 
-## 🔥 My GitHub Profile Animation  
-[![Click to see animation](https://img.shields.io/badge/🎬-Click%20Here-blue?style=for-the-badge)](https://dexangga5.github.io/animation.html)
+## ✨ My GitHub Profile Animation  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dexangga5/dexangga5/main/animation/animation.svg" width="800"/>
+</p>
 
 ###
