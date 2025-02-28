@@ -44,9 +44,11 @@
 <br clear="both">
 
 ## ✨ My GitHub Profile Animation  
+## ✨ My GitHub Profile Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnggaPuspa/AnggaPuspa/main/animation/animation.svg" width="800"/>
+  <iframe src="https://anggapuspa.github.io/github-animation/" width="800" height="400"></iframe>
 </p>
+
 
 ###
