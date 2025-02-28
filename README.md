@@ -43,6 +43,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🔥 My GitHub Profile Animation  
+[![Click to see animation](https://img.shields.io/badge/🎬-Click%20Here-blue?style=for-the-badge)](https://dexangga5.github.io/animation.html)
+
 
 ###
