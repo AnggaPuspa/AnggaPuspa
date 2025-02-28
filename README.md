@@ -43,7 +43,9 @@
 
 <br clear="both">
 
-![My GitHub Profile Animation](https://anggapuspa.github.io/github-animation/animation.svg)
+## My GitHub Profile Animation
+
+![Animation](animation.svg)
 
 
 
