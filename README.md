@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dexangga and I'm a Student, from Primakara University</h2>
+<h2 align="left">Hi 👋! My name is anggaPuspa and I'm a Student, from Primakara University</h2>
 
 ###
 
