@@ -44,9 +44,9 @@
 <br clear="both">
 
 ## ✨ My GitHub Profile Animation  
-<p align="center">
-  <iframe src="https://anggapuspa.github.io/github-animation/" width="800" height="400"></iframe>
-</p>
+## ✨ My GitHub Profile Animation  
+
+[![Preview](https://raw.githubusercontent.com/anggapuspa/github-animation/main/preview.png)](https://anggapuspa.github.io/github-animation/)
 
 
 ###
