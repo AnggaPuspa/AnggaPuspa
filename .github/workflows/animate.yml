@@ -1,0 +1,32 @@
+name: Generate Animation
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  
+  workflow_dispatch:  
+
+jobs:
+  generate-animation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate SVG animation
+        run: |
+          # Buat file SVG dengan konten yang berubah
+          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+                  <rect width="200" height="100" fill="#87CEEB" />
+                  <text x="50%" y="50%" font-size="20" text-anchor="middle" fill="white">Hello, World!</text>
+                  <text x="50%" y="80%" font-size="12" text-anchor="middle" fill="white">Last updated: '"$TIMESTAMP"'</text>
+                </svg>' > animation.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add animation.svg
+          git commit -m "Update animation.svg"
+          git push
