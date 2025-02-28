@@ -41,4 +41,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dexangga/dexangga/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anggapuspa/anggapuspa/output/snake.svg" alt="Snake animation" />
