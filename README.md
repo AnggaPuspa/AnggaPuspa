@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Dex Angga
+# 🌟 Angga Puspa
 
 [![](https://visitcount.itsvg.in/api?id=AnggaPuspa&icon=4&color=12)](https://visitcount.itsvg.in)
 
@@ -57,5 +57,4 @@
 
 ---
 <div align="center">
-<i>Made with ❤️ using GitHub Profile README Generator</i>
 </div>
