@@ -46,7 +46,7 @@
 ## ✨ My GitHub Profile Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexangga5/dexangga5/main/animation/animation.svg" width="800"/>
+  <img src="https://raw.githubusercontent.com/AnggaPuspa/AnggaPuspa/main/animation/animation.svg" width="800"/>
 </p>
 
 ###
