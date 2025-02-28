@@ -1,4 +1,3 @@
-<!-- filepath: /C:/Users/ASUS/Downloads/ReadMe (1).md -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Angga%20Puspa&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
   
@@ -7,7 +6,6 @@
   <p>🎓 Informatics Engineering Student at Primakara University</p>
 </div>
 
-<!-- Bento Grid Layout -->
 <div align="center">
   <table>
     <tr>
@@ -71,7 +69,6 @@
 
 <div align="center">
   <h2>📊 GitHub Activity</h2>
-  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnggaPuspa&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
 </div>
 
@@ -85,7 +82,6 @@
   <a href="https://instagram.com/dexangga5" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <!-- Add more social links here as needed -->
 </div>
 
 <div align="center">
