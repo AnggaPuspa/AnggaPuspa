@@ -43,10 +43,6 @@
 
 <br clear="both">
 
-## ✨ My GitHub Profile Animation  
 
-
-## My GitHub Profile Animation
-<iframe src="https://anggapuspa.github.io/github-animation/" width="800" height="400"></iframe>
 
 ###
