@@ -79,7 +79,7 @@
 
 <div align="center">
   <h2>💫 Connect With Me</h2>
-  <a href="https://instagram.com/dexangga5" target="_blank">
+  <a href="https://instagram.com/anggapuspa5" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
 </div>
