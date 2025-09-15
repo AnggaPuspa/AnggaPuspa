@@ -5,17 +5,7 @@
 ---
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 12px; margin: 20px 0;">
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-      <div style="flex: 1; min-width: 300px;">
-        <h1 style="color: white; font-size: 3rem; font-weight: bold; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">ANGGAPUSPA</h1>
-        <p style="color: #f0f0f0; font-size: 1.2rem; margin: 10px 0 0 0; font-weight: 300;">software engineer, entrepreneur & content creator</p>
-      </div>
-      <div style="flex: 0 0 auto;">
-        <img src="https://github.com/AnggaPuspa/foto-rental/raw/main/Hero%20Banner%20UI.jpg" alt="Angga Puspa" style="width: 200px; height: 200px; border-radius: 50%; border: 4px solid white; box-shadow: 0 8px 32px rgba(0,0,0,0.2); object-fit: cover;" />
-      </div>
-    </div>
-  </div>
+  <img src="https://github.com/AnggaPuspa/foto-rental/raw/main/Hero%20Banner%20UI.jpg" alt="Angga Puspa" style="width: 100%; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2); margin: 20px 0;" />
 </div>
 
 ---
