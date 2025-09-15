@@ -1,6 +1,6 @@
 # Hi, I'm Angga 👋
 
-**CS Student · Entrepreneur**
+**CS Student**
 
 ---
 
