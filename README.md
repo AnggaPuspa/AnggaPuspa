@@ -1,9 +1,18 @@
-Hi. My name is Angga Puspa.
+<p>
+  <img src="./assets/masthead.svg" alt="Hi. My name is Angga Puspa. Student and frontend developer. Based in Denpasar, Bali." width="100%" />
+</p>
 
-I started Informatics at Primakara University, and since then I've been a student and frontend developer. Based in Denpasar, Bali.
+**02 / the rest**
 
-I'm pretty sure you know the rest. You see, I learned Laravel, I fell for Next.js, I got into motion, I showed up at tech events around Bali, blah blah blah. I did a bunch of other stuff too. Class projects, competitions, freelance. And then I built again, and again, and again.
+> I'm pretty sure you know the rest. You see, I learned Laravel, I fell for Next.js, I got into motion, I showed up at tech events around Bali, blah blah blah. I did a bunch of other stuff too. Class projects, competitions, freelance. And then I built again, and again, and again.
+
+**03 / off the clock**
 
 When I'm not building, I'm usually gaming or watching films.
 
-[anggapuspa.dev](https://www.anggapuspa.dev) · [mail](mailto:dexangga6@gmail.com) · [linkedin](https://www.linkedin.com/in/anggapuspa/) · [ig](https://www.instagram.com/anggapuspa5/)
+---
+
+`SITE` [anggapuspa.dev](https://www.anggapuspa.dev)  
+`MAIL` [dexangga6@gmail.com](mailto:dexangga6@gmail.com)  
+`LI` [linkedin.com/in/anggapuspa](https://www.linkedin.com/in/anggapuspa/)  
+`IG` [instagram.com/anggapuspa5](https://www.instagram.com/anggapuspa5/)

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Hi. My name is Angga Puspa</title>
+  <desc id="desc">Student and frontend developer. Based in Denpasar, Bali.</desc>
+  <rect width="1200" height="520" fill="#F3EFE4"/>
+  <rect x="28" y="28" width="1156" height="476" fill="#1A2433"/>
+  <rect x="16" y="16" width="1156" height="476" fill="#F3EFE4" stroke="#1A2433" stroke-width="4"/>
+
+  <text x="56" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#1A2433">ap.</text>
+  <text x="112" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="4" fill="#00BFA6">HI.</text>
+  <text x="1088" y="70" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#1A2433">01</text>
+
+  <text x="56" y="200" font-family="Arial Black, Helvetica Neue, Helvetica, sans-serif" font-size="72" font-weight="900" fill="#1A2433">MY NAME IS</text>
+  <text x="56" y="286" font-family="Arial Black, Helvetica Neue, Helvetica, sans-serif" font-size="72" font-weight="900" fill="#1A2433">ANGGA PUSPA</text>
+
+  <line x1="56" y1="324" x2="1140" y2="324" stroke="#1A2433" stroke-width="2"/>
+
+  <text x="56" y="372" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1A2433">Student and frontend developer. Informatics, Primakara University.</text>
+  <text x="56" y="430" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#1A2433">BASED IN DENPASAR, BALI</text>
+  <text x="1140" y="430" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#00BFA6">ANGGAPUSPA.DEV</text>
+</svg>
