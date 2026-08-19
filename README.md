@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/masthead.svg" alt="Hi. My name is Angga Puspa. Student and frontend developer. Based in Denpasar, Bali." width="100%" />
+  <img src="./assets/masthead.svg?v=2" alt="Hi. My name is Angga Puspa. Based in Denpasar, Bali." width="100%" />
 </p>
 
 **02 / the rest**
