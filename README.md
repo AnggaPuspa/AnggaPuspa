@@ -24,19 +24,42 @@ When not building, I am usually gaming, watching films, or showing up at tech ev
 
 **Selected work**
 
+From [anggapuspa.dev](https://www.anggapuspa.dev/projects):
+
+[**Bali Virtually**](https://www.anggapuspa.dev/work/8)  
+Immersive virtual tours and NFT platform. 2025.
+
+[**PT Muara Jaya Mandiri**](https://www.anggapuspa.dev/work/9)  
+Freight forwarder company profile site. 2025.
+
+[**Luminus**](https://www.anggapuspa.dev/work/10)  
+Coding course platform with AI chatbot. 2025.
+
+[**Zero Studio**](https://www.anggapuspa.dev/work/11)  
+Hybrid booking system for a photo studio. 2025.
+
+[**Invoice Generator**](https://www.anggapuspa.dev/work/12)  
+PDF invoice generator with Google Drive sync. 2025.
+
+[**Praya City**](https://www.anggapuspa.dev/work/13) · [repo](https://github.com/AnggaPuspa/PrayaCity)  
+Digital city portal for Praya, Central Lombok. 2025.
+
+[**TaskFi**](https://www.anggapuspa.dev/work/7)  
+Productivity × finance mobile app. 2025.
+
+[**One Transport**](https://www.anggapuspa.dev/work/5)  
+Singapore international school transport app. 2023.
+
+Also on GitHub:
+
 [**SENTIX**](https://github.com/AnggaPuspa/SENTIX)  
 UAS. Sentiment analysis for Indonesian text.
 
 [**posyanduFe**](https://github.com/AnggaPuspa/posyanduFe)  
 Web app for a competition at Politeknik Negeri Semarang.
 
-[**PrayaCity**](https://github.com/AnggaPuspa/PrayaCity)  
-A digital-city project.
-
 [**sikatjp**](https://github.com/AnggaPuspa/sikatjp)  
 Web design competition piece.
-
-More on the site, including case studies: [anggapuspa.dev](https://www.anggapuspa.dev)
 
 ---
 
