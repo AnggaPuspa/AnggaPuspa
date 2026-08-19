@@ -1,6 +1,6 @@
 Hi. My name is Angga Puspa.
 
-I'm an Informatics student at Primakara University, and I build on the frontend. Based in Denpasar, Bali.
+I'm an Informatics student at Primakara University, and I build on the frontend.
 
 I'm pretty sure you know the rest. You see, I learned Laravel, I fell for Next.js, I got into motion, I showed up at tech events around Bali, blah blah blah. I did a bunch of other stuff too. Class projects, competitions, freelance. And then I built again, and again, and again.
 
