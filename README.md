@@ -1,7 +1,9 @@
-Hi 👋, my name is Angga Puspa. I study Informatics at Primakara University, and I build on the frontend. Laravel, Next.js, motion. The small things that make an interface feel alive.
+Hi. My name is Angga Puspa.
 
-based in Denpasar, Bali.
+I started Informatics at Primakara University, and since then I've been a student and frontend developer. Based in Denpasar, Bali.
 
-Work is on the site: [anggapuspa.dev](https://www.anggapuspa.dev)
+I'm pretty sure you know the rest. You see, I learned Laravel, I fell for Next.js, I got into motion, I showed up at tech events around Bali, blah blah blah. I did a bunch of other stuff too. Class projects, competitions, freelance. And then I built again, and again, and again.
 
-[mail](mailto:dexangga6@gmail.com) · [linkedin](https://www.linkedin.com/in/anggapuspa/) · [ig](https://www.instagram.com/anggapuspa5/)
+When I'm not building, I'm usually gaming or watching films.
+
+[anggapuspa.dev](https://www.anggapuspa.dev) · [mail](mailto:dexangga6@gmail.com) · [linkedin](https://www.linkedin.com/in/anggapuspa/) · [ig](https://www.instagram.com/anggapuspa5/)
